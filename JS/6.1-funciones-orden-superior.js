@@ -113,7 +113,7 @@ console.log(resultado2) // false
 
 console.clear()
 //=====================================7=================================================
-//maps() se utiliza para crear un nuevo array con todos los elementos del array original, transformados según las operaciones de la función enviada por parámetro.
+//map() se utiliza para crear un nuevo array con todos los elementos del array original, transformados según las operaciones de la función enviada por parámetro.
 
 const cursos4 = [
     { nombre: 'Javascript', precio: 15000 },
